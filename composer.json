@@ -2,7 +2,7 @@
     "name": "geocodefarm/geocodefarm-php",
     "description": "Geocode.Farm SDK for PHP",
     "type": "library",
-    "license": "Public Domain (https://www.unlicense.org)",
+    "license": "Unlicense",
     "version": "4.0",
     "autoload": {
         "psr-4": {
